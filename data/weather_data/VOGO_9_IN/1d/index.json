@@ -1,0 +1,26 @@
+{
+  "observations": [
+    "temp",
+    "heat_index",
+    "wc",
+    "feels_like",
+    "dewPt",
+    "rh",
+    "pressure",
+    "precip_total",
+    "precip_hrly",
+    "snow_hrly",
+    "wspd",
+    "wdir"
+  ],
+  "stations": [
+    "VOGO_9_IN"
+  ],
+  "transformers": [
+    "avg",
+    "median",
+    "max",
+    "min",
+    "stddev"
+  ]
+}
